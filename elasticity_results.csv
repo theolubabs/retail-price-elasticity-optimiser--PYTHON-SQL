@@ -1,0 +1,26 @@
+product_id,product_category_name,elasticity,classification,recommendation,recommended_discount
+bed1,bed_bath_table,-16.9802,Elastic,Discount freely,5.56%
+bed2,bed_bath_table,35.5601,Inelastic,Premium product — do not discount,0%
+bed3,bed_bath_table,-19.1597,Elastic,Discount freely,4.96%
+bed4,bed_bath_table,-9.7615,Elastic,Discount freely,9.29%
+computers1,computers_accessories,-7.0256,Elastic,Discount freely,12.46%
+computers2,computers_accessories,27.9226,Inelastic,Premium product — do not discount,0%
+computers3,computers_accessories,2.3387,Inelastic,Premium product — do not discount,0%
+computers4,computers_accessories,-3.4286,Elastic,Discount freely,22.58%
+consoles1,consoles_games,2.1183,Inelastic,Premium product — do not discount,0%
+consoles2,consoles_games,2.2941,Inelastic,Premium product — do not discount,0%
+cool5,cool_stuff,21.8057,Inelastic,Premium product — do not discount,0%
+furniture1,furniture_decor,-2.2247,Elastic,Discount freely,30.0%
+furniture3,furniture_decor,40.3747,Inelastic,Premium product — do not discount,0%
+garden1,garden_tools,-3.5958,Elastic,Discount freely,21.76%
+garden2,garden_tools,-9.4349,Elastic,Discount freely,9.58%
+garden3,garden_tools,-12.3393,Elastic,Discount freely,7.5%
+garden5,garden_tools,16.686,Inelastic,Premium product — do not discount,0%
+health3,health_beauty,25.8957,Inelastic,Premium product — do not discount,0%
+health5,health_beauty,39.9271,Inelastic,Premium product — do not discount,0%
+health6,health_beauty,4.9992,Inelastic,Premium product — do not discount,0%
+watches2,watches_gifts,-5.586,Elastic,Discount freely,15.18%
+watches4,watches_gifts,-0.0,Inelastic,Discount carefully,0%
+watches5,watches_gifts,-9.4895,Elastic,Discount freely,9.53%
+watches6,watches_gifts,-15.7783,Elastic,Discount freely,5.96%
+watches7,watches_gifts,-8.1554,Elastic,Discount freely,10.92%
